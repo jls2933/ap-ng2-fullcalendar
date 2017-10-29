@@ -28,9 +28,9 @@
     "@angular/common": "^4.x.x",
     "@angular/core": "^4.x.x",
     "@angular/forms": "^4.x.x",
-    "@types/fullcalendar": "2.7.44",
+    "@types/fullcalendar": "3.5.1",
     "@types/jquery": "2.0.47",
-    "fullcalendar": "^3.6.0"
+    "fullcalendar": "3.6.2"
   },
   "devDependencies": {
     "@angular/compiler": "^4.x.x",
